@@ -193,17 +193,27 @@ A Python web application with image uploading, gallery management, and database 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Maxutka74&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FFB3&icon_color=00D9FF&text_color=FFFFFF" height="170" alt="GitHub Stats"/>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Maxutka74&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FFB3&icon_color=00D9FF&text_color=FFFFFF"
+  height="170"
+  alt="GitHub Statistics"
+/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxutka74&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FFB3&text_color=FFFFFF" height="170" alt="Top Languages"/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxutka74&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FFB3&text_color=FFFFFF"
+  height="170"
+  alt="Most Used Languages"
+/>
 
 <br/><br/>
 
+### 📈 Contribution Calendar
+
 <a href="https://github.com/Maxutka74">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Maxutka74&theme=github-compact&hide_border=true&area=true"
-    alt="Maxutka74's GitHub Activity Graph"
-    width="100%"
+    src="https://ghchart.rshah.org/00FFB3/Maxutka74"
+    alt="Maxutka74 GitHub Contribution Calendar"
+    width="95%"
   />
 </a>
 
