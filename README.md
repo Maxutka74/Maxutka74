@@ -1,271 +1,301 @@
 
 <div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:238636&height=200&section=header&text=Hi,%20I'm%20Max!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"
-    width="100%"
-    alt="Max's GitHub profile banner"
-  />
 
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1200&color=3FB950&center=true&vCenter=true&width=650&lines=Junior+Python+Developer;Backend+%26+Full-Stack+Development;Django+%7C+FastAPI+%7C+React;Building+projects+and+learning+every+day"
-    alt="Typing animation"
-  />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050510,30:101044,65:004D66,100:00FF9F&text=MAX%20%7C%20DEVELOPER&fontSize=42&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=PYTHON%20BACKEND%20%7C%20FULL-STACK%20DEVELOPMENT&descSize=15&descAlignY=60" alt="Neon developer banner"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=900&color=00FFB3&center=true&vCenter=true&width=750&height=55&lines=Hello%2C+World!+I'm+Max+%F0%9F%91%8B;Python+Backend+Developer+in+Progress;Django+%7C+FastAPI+%7C+React+%7C+TypeScript;Building+Ideas+Into+Working+Software;Code.+Learn.+Build.+Repeat." alt="Animated typing introduction"/>
+
+<br/><br/>
+
+<a href="https://github.com/Maxutka74">
+<img src="https://img.shields.io/badge/GITHUB-00FFB3?style=for-the-badge&logo=github&logoColor=050510" alt="GitHub"/>
+</a>
+<a href="https://leetcode.com/u/Maxutka_74/">
+<img src="https://img.shields.io/badge/LEETCODE-00D9FF?style=for-the-badge&logo=leetcode&logoColor=050510" alt="LeetCode"/>
+</a>
+<a href="https://www.codewars.com/users/Maxutka74">
+<img src="https://img.shields.io/badge/CODEWARS-FF3CAC?style=for-the-badge&logo=codewars&logoColor=FFFFFF" alt="Codewars"/>
+</a>
+<a href="https://t.me/Hackerstar12">
+<img src="https://img.shields.io/badge/TELEGRAM-00D9FF?style=for-the-badge&logo=telegram&logoColor=050510" alt="Telegram"/>
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/STATUS-ALWAYS_LEARNING-00FFB3?style=flat-square&labelColor=050510" alt="Always learning"/>
+<img src="https://img.shields.io/badge/FOCUS-PYTHON_BACKEND-00D9FF?style=flat-square&labelColor=050510" alt="Python backend"/>
+<img src="https://img.shields.io/badge/MODE-BUILDING-FF3CAC?style=flat-square&labelColor=050510" alt="Building"/>
+
 </div>
 
-<p align="center">
-  <a href="https://github.com/Maxutka74">
-    <img src="https://img.shields.io/badge/GitHub-Maxutka74-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="https://leetcode.com/u/Maxutka_74/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://www.codewars.com/users/Maxutka74">
-    <img src="https://img.shields.io/badge/Codewars-Profile-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars" />
-  </a>
-</p>
+---
+
+## `01` // ABOUT ME
+
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Max"
+        self.role = "Computer Science Student"
+        self.primary_language = "Python"
+        self.focus = ["Backend Development", "Full-Stack"]
+        self.frameworks = ["Django", "FastAPI", "React"]
+        self.goal = "Become a strong backend engineer"
+
+    def say_hello(self):
+        return "Always learning. Always building."
+
+
+me = Developer()
+print(me.say_hello())
+```
+
+- 🎓 First-year Computer Science student.
+- 🐍 Focused on Python backend development and API design.
+- ⚙️ Building applications with Django, Django REST Framework, and FastAPI.
+- 🌐 Working with React and TypeScript for full-stack development.
+- 🗄️ Exploring databases, caching, and asynchronous task processing.
+- ☁️ Have deployed projects using Microsoft Azure and Vercel.
+- 🧠 Practicing algorithms and problem-solving on LeetCode and Codewars.
+- 🚀 Learning by building real projects and improving existing solutions.
 
 ---
 
-## 👨‍💻 About Me
+## `02` // TECH ARSENAL
 
-I'm a Computer Science student focused on Python backend development and full-stack web applications.
+<div align="center">
 
-I enjoy turning ideas into working software, designing APIs, working with databases, and improving application performance. Most of my development experience comes from personal projects and practical experimentation.
+### ⚡ Languages
 
-- 🎓 First-year Computer Science student
-- 🐍 Focused on Python backend development
-- ⚙️ Working with Django, Django REST Framework, and FastAPI
-- 🌐 Building full-stack applications with React and TypeScript
-- 🗄️ Interested in database optimization, caching, and asynchronous processing
-- 🔌 Experienced with REST APIs and real-time WebSocket communication
-- ☁️ Have deployed projects using Microsoft Azure and Vercel
-- 🧩 Practicing problem-solving on LeetCode and Codewars
-- 🚀 Continuously improving my projects and development skills
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,sass&theme=dark" alt="Programming languages and web technologies"/>
 
----
+### 🔮 Backend Engineering
 
-## 🛠️ Tech Stack
+<img src="https://skillicons.dev/icons?i=django,fastapi&theme=dark" alt="Backend frameworks"/>
 
-### Languages
+<img src="https://img.shields.io/badge/Django_REST_Framework-00FFB3?style=for-the-badge&logo=django&logoColor=050510" alt="Django REST Framework"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-00D9FF?style=for-the-badge&logo=python&logoColor=050510" alt="SQLAlchemy"/>
+<img src="https://img.shields.io/badge/Celery-FF3CAC?style=for-the-badge&logo=celery&logoColor=FFFFFF" alt="Celery"/>
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS" />
-</p>
+### 🌐 Frontend Development
 
-### Backend Development
+<img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind&theme=dark" alt="Frontend technologies"/>
 
-<p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Django_REST_Framework-A30000?style=for-the-badge" alt="Django REST Framework" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge" alt="SQLAlchemy" />
-  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" alt="Celery" />
-</p>
+### 🗄️ Databases & Caching
 
-### Frontend Development
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,mongodb&theme=dark" alt="Databases and caching"/>
 
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge" alt="Zustand" />
-</p>
+### 🐳 DevOps & Deployment
 
-### Databases & Caching
+<img src="https://skillicons.dev/icons?i=docker,azure,vercel,git,github,githubactions&theme=dark" alt="Tools and deployment platforms"/>
 
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/PgBouncer-336791?style=for-the-badge" alt="PgBouncer" />
-</p>
+</div>
 
-### DevOps, Deployment & Tools
+### 🔌 APIs, Security & Integrations
 
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-</p>
+`REST APIs` · `WebSockets` · `JWT` · `HTTP-only Cookies` · `XSS/CSRF Protection`
 
-### APIs, Security & Integrations
-
-- REST APIs and WebSockets
-- JWT authentication and cookie-based authentication
-- XSS and CSRF protection
-- Google Gemini API
-- Telegram Bot API
-- Gmail API
-- Binance API
-- Stripe API
+`Stripe API` · `Google Gemini API` · `Gmail API` · `Telegram Bot API` · `Binance API`
 
 ---
 
-## 🚀 Featured Projects
+## `03` // FEATURED PROJECTS
 
-### 1. Monvirex — Cryptocurrency Simulator Platform
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1200&color=00D9FF&center=true&vCenter=true&width=500&height=35&lines=MY+PROJECTS.+MY+CODE.+MY+PROGRESS." alt="Featured projects animation"/>
+
+</div>
+
+### 🟢 01. Monvirex — Cryptocurrency Simulator Platform
+
+<a href="https://github.com/Maxutka74/monvirex">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-00FFB3?style=for-the-badge&logo=github&logoColor=050510" alt="Explore Monvirex"/>
+</a>
 
 A full-stack cryptocurrency simulation platform combining market data, trading functionality, AI-powered insights, and real-time updates.
 
 **Key features**
 
-- Cryptocurrency market data and analysis
-- Buy, sell, and exchange functionality
-- Real-time updates using WebSockets
-- AI-powered market insights and trading signals
-- Authentication and application security
-- Background processing with Celery
-- Caching with Redis
-- Stripe integration
-- Integration with external services and APIs
+- 📈 Cryptocurrency market data and analysis.
+- 💱 Buy, sell, and exchange functionality.
+- ⚡ Real-time updates using WebSockets.
+- 🤖 AI-powered market insights and trading signals.
+- 🔐 Authentication and application security.
+- 🔄 Background processing with Celery.
+- 🚀 Redis caching and performance optimization.
+- 💳 Stripe integration.
 
-**Technologies:** Python, Django REST Framework, React, TypeScript, PostgreSQL, Redis, Celery, Stripe, Gemini API, WebSockets
+**Tech stack**
 
-**Deployment:** Microsoft Azure, Vercel
+`Python` `Django REST Framework` `React` `TypeScript` `PostgreSQL` `Redis` `Celery` `Stripe` `Gemini API` `WebSockets`
 
-🔗 [View Repository](https://github.com/Maxutka74/monvirex)
+**Deployment:** Microsoft Azure · Vercel
 
 ---
 
-### 2. BizGuard — Cybersecurity Platform
+### 🔵 02. BizGuard — Cybersecurity Platform
 
-A hackathon project focused on helping small and medium-sized businesses identify phishing emails and potential cybersecurity threats.
+<a href="https://github.com/Maxutka74/BizGuard">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=050510" alt="Explore BizGuard"/>
+</a>
+
+A hackathon MVP focused on helping small and medium-sized businesses identify phishing emails and potential cybersecurity threats.
 
 **Key features**
 
-- Gmail-based phishing email checking
-- Security-focused email analysis
-- Backend development and frontend-backend integration
-- Collaborative MVP development during a hackathon
+- 🛡️ Phishing email checking.
+- 📧 Gmail integration.
+- 🤖 AI-assisted security analysis.
+- 🔗 Security-focused email and link evaluation.
+- 🤝 Collaborative development under hackathon time constraints.
 
-**My contribution:** Technical and team leadership, backend development, and frontend-backend integration.
+**My contribution**
 
-**Technologies:** Python, Gmail API, AI-powered security analysis
-
-🔗 [View Repository](https://github.com/Maxutka74/BizGuard)
+Technical and team leadership, backend development, and frontend-backend integration.
 
 ---
 
-### 3. TelegramAIBOT — AI-Powered Telegram Bot
+### 🟣 03. TelegramAIBOT — AI-Powered Telegram Bot
+
+<a href="https://github.com/Maxutka74/TelegramAIBOT">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-FF3CAC?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Explore TelegramAIBOT"/>
+</a>
 
 A multifunctional Telegram bot built with Python and aiogram, integrating Google's Gemini AI API.
 
 **Key features**
 
-- AI-powered conversations
-- Quiz generation and random facts
-- Text translation
-- Image analysis
-- Telegram bot commands
-- SQLite-based session storage
+- 💬 AI-powered conversations.
+- 🎯 Quiz generation and random facts.
+- 🌍 Text translation.
+- 🖼️ Image analysis.
+- ⚡ Telegram bot commands.
+- 💾 SQLite-based session storage.
 
-**Technologies:** Python, aiogram, Google Gemini API, SQLite
+**Tech stack**
 
-🔗 [View Repository](https://github.com/Maxutka74/TelegramAIBOT)
+`Python` `aiogram` `Google Gemini API` `SQLite`
 
 ---
 
-### 4. WebSite_UploadImg — Image Upload Application
+### 🟠 04. WebSite_UploadImg — Image Upload Application
 
-A web application for uploading and browsing images, built with Python and FastAPI.
+<a href="https://github.com/Maxutka74/WebSite_UploadImg">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-FFB000?style=for-the-badge&logo=github&logoColor=050510" alt="Explore WebSite_UploadImg"/>
+</a>
+
+A Python web application for uploading and browsing images, with database integration and gallery functionality.
 
 **Key features**
 
-- Image uploading
-- Image gallery
-- Sorting and pagination
-- Database integration
+- 🖼️ Image uploading.
+- 🗂️ Image gallery.
+- 🔎 Sorting and pagination.
+- 🗄️ Database-backed application.
 
-**Technologies:** Python, FastAPI, PostgreSQL, PgBouncer, Nginx, Docker
+**Tech stack**
 
-🔗 [View Repository](https://github.com/Maxutka74/WebSite_UploadImg)
-
----
-
-## 🧠 Coding Profiles
-
-I use coding challenge platforms to practice algorithms, improve problem-solving skills, and strengthen my programming fundamentals.
-
-<p align="center">
-  <a href="https://leetcode.com/u/Maxutka_74/">
-    <img src="https://img.shields.io/badge/LeetCode-Solve%20Challenges-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile" />
-  </a>
-  <a href="https://www.codewars.com/users/Maxutka74">
-    <img src="https://img.shields.io/badge/Codewars-Practice%20Coding-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars profile" />
-  </a>
-</p>
+`Python` `FastAPI` `PostgreSQL` `Docker`
 
 ---
 
-## 📚 Currently Learning
+## `04` // CODING CHALLENGES
 
-- Improving Python and Django development skills
-- Designing maintainable REST APIs
-- Writing efficient database queries
-- Exploring asynchronous task processing
-- Improving deployment and CI/CD knowledge
-- Practicing algorithms and data structures
-- Building more maintainable and performant applications
+<div align="center">
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2500&pause=1000&color=FF3CAC&center=true&vCenter=true&width=500&height=35&lines=TRAIN+YOUR+LOGIC;SOLVE+PROBLEMS;GET+BETTER+EVERY+DAY" alt="Coding challenges animation"/>
 
-## 🎯 Goals
+<br/>
 
-- Grow as a Python backend developer
-- Gain experience working on team projects
-- Improve backend architecture and database design
-- Learn through code reviews and practical feedback
-- Build reliable, secure, and maintainable applications
+<a href="https://leetcode.com/u/Maxutka_74/">
+<img src="https://img.shields.io/badge/LeetCode-SOLVE_CHALLENGES-FFA116?style=for-the-badge&logo=leetcode&logoColor=050510" alt="LeetCode profile"/>
+</a>
 
----
+<a href="https://www.codewars.com/users/Maxutka74">
+<img src="https://img.shields.io/badge/Codewars-TRAIN_YOUR_SKILLS-B1361E?style=for-the-badge&logo=codewars&logoColor=FFFFFF" alt="Codewars profile"/>
+</a>
 
-## 🐍 GitHub Contributions
+</div>
 
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Maxutka74/Maxutka74/output/github-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Maxutka74/Maxutka74/output/github-snake.svg"
-    />
-    <img
-      alt="GitHub contribution snake animation"
-      src="https://raw.githubusercontent.com/Maxutka74/Maxutka74/output/github-snake.svg"
-      width="100%"
-    />
-  </picture>
-</p>
+I use coding challenge platforms to strengthen my algorithmic thinking, problem-solving skills, and programming fundamentals.
 
 ---
 
-## 📫 Contact
+## `05` // CURRENT OBJECTIVES
 
-<p align="center">
-  <a href="https://github.com/Maxutka74">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <i>Always learning. Always building.</i>
-</p>
+| 🎯 Objective | ⚡ Focus |
+|:---|:---|
+| Backend Engineering | Python, Django, REST APIs |
+| Database Design | SQL, PostgreSQL, query optimization |
+| Full-Stack Development | React, TypeScript |
+| Async Processing | Celery, Redis |
+| Deployment | Azure, Vercel, Docker |
+| Problem Solving | LeetCode, Codewars |
+| Team Development | Collaboration, code reviews |
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,100:0D1117&height=100&section=footer"
-    width="100%"
-    alt="Footer banner"
+</div>
+
+---
+
+## `06` // GITHUB CONTRIBUTIONS
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2500&pause=1000&color=00FFB3&center=true&vCenter=true&width=450&height=35&lines=EVERY+COMMIT+COUNTS;KEEP+PUSHING+FORWARD;BUILD+YOUR+OWN+PATH" alt="Contribution animation"/>
+
+<br/>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Maxutka74/Maxutka74/output/github-snake-dark.svg"
   />
-</p>
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Maxutka74/Maxutka74/output/github-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake animation"
+    src="https://raw.githubusercontent.com/Maxutka74/Maxutka74/output/github-snake.svg"
+    width="100%"
+  />
+</picture>
+
+</div>
+
+---
+
+## `07` // CONNECT WITH ME
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=450&height=35&lines=LET'S+CONNECT;LET'S+BUILD+SOMETHING;OPEN+TO+NEW+OPPORTUNITIES" alt="Contact animation"/>
+
+<br/><br/>
+
+<a href="https://github.com/Maxutka74">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=00FFB3" alt="GitHub"/>
+</a>
+
+<a href="https://t.me/Hackerstar12">
+<img src="https://img.shields.io/badge/TELEGRAM-0088CC?style=for-the-badge&logo=telegram&logoColor=FFFFFF" alt="Telegram"/>
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/KEEP-CODING-00FFB3?style=flat-square&labelColor=050510" alt="Keep coding"/>
+<img src="https://img.shields.io/badge/KEEP-LEARNING-00D9FF?style=flat-square&labelColor=050510" alt="Keep learning"/>
+<img src="https://img.shields.io/badge/KEEP-BUILDING-FF3CAC?style=flat-square&labelColor=050510" alt="Keep building"/>
+
+<br/><br/>
+
+### `> Always learning. Always building. Never stop. _`
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:00FFB3,40:004D66,75:101044,100:050510" alt="Neon footer"/>
+
+</div>
