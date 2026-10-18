@@ -199,7 +199,13 @@ A Python web application with image uploading, gallery management, and database 
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Maxutka74&bg_color=0D1117&color=00FFB3&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Contribution Activity Graph"/>
+<a href="https://github.com/Maxutka74">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Maxutka74&theme=github-compact&hide_border=true&area=true"
+    alt="Maxutka74's GitHub Activity Graph"
+    width="100%"
+  />
+</a>
 
 </div>
 
